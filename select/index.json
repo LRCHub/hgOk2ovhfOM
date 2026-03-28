@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "千鳥 - Plover",
+  "base_artist": "Yorushika",
+  "createdAt": "2026-03-28T00:09:52.354770Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "千鳥",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/01_千鳥_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "千鳥",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_千鳥_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "千鳥 - Plover",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/03_千鳥_-_Plover_Yorushika.lrc"
+    }
+  ]
+}
